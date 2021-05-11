@@ -1,0 +1,25 @@
+﻿.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    line-height: 1;
+    margin: auto;
+    width: 100%;
+    // Add this
+}
+
+
+.container{
+    font-family:"sans-serif";
+}
+.bg-container {
+    font-family: "sans-serif";
+}
+.nav-style{
+    font-weight:300;
+
+}
+.table-bordered {
+    border-color: #D278FC;
+    border-width:2px;
+}
